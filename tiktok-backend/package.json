@@ -1,0 +1,23 @@
+{
+  "name": "tik-tok-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "engines": {
+    "node": ">=13.x.x",
+    "npm": ">=3.9.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14",
+    "nodeman": "^1.1.2"
+  }
+}
